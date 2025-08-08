@@ -1,13 +1,12 @@
 ---
-Fecha de creación: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-Fecha de Modificación: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-tags: 
-Tema:
+Fecha de creación: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
+Fecha de Modificación: <% tp.file.last_modified_date("YYYY-MM-DD HH:mm") %>
+tags: [ejemplos]
+Tema: Ejemplo
 ---
 
-
 ## 📚 Idea/Concepto 
-
+- 
 
 ## 📌 Puntos Claves (Opcional)
 - 
@@ -17,5 +16,6 @@ Tema:
 
 ## 💡 Personal Insight (Opcional)
 - 
+
 ## 🧾 Recursos (Opcional)
 - 
