@@ -11,10 +11,14 @@
             "id": "9db9a906f8f1a705",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Product Backlog"
             }
           }
         ]
@@ -167,6 +171,8 @@
   },
   "active": "9db9a906f8f1a705",
   "lastOpenFiles": [
+    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
+    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/01_Procesos de Desarrollo/Story Points.md",
     "CE1116/01_Procesos de Desarrollo/Stakeholder.md",
@@ -175,8 +181,6 @@
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/01_Procesos de Desarrollo/Product Owner.md",
     "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
-    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
-    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
     "CE1116/08_Templates/Atomic Template.md",
     "README.md",
     "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
