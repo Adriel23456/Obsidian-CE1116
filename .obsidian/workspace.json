@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2faaee08dd91556a",
+        "id": "ab204187f0baf0d5",
         "type": "tabs",
         "children": [
           {
-            "id": "9db9a906f8f1a705",
+            "id": "7553ef78d3bb62af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Product Backlog"
+              "title": "New tab"
             }
           }
         ]
@@ -160,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,10 +166,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9db9a906f8f1a705",
+  "active": "7553ef78d3bb62af",
   "lastOpenFiles": [
-    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
+    "CE1116/09_InteligenciaArtificial/Tokenización.md",
+    "CE1116/09_InteligenciaArtificial/Embeddings.md",
+    "CE1116/09_InteligenciaArtificial/Ventana de Contexto.md",
+    "CE1116/09_InteligenciaArtificial/Mecanismo de atención.md",
+    "CE1116/09_InteligenciaArtificial/Large Language Models (LLMs).md",
+    "CE1116/09_InteligenciaArtificial/Redes Neuronales.md",
+    "CE1116/00_Inbox/a.md",
+    "CE1116/08_Templates/Atomic Template.md",
     "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+    "CE1116/09_InteligenciaArtificial",
+    "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
+    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
     "CE1116/01_Procesos de Desarrollo/Velocity.md",
     "CE1116/01_Procesos de Desarrollo/Story Points.md",
     "CE1116/01_Procesos de Desarrollo/Stakeholder.md",
@@ -180,8 +187,6 @@
     "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
     "CE1116/01_Procesos de Desarrollo/Scrum.md",
     "CE1116/01_Procesos de Desarrollo/Product Owner.md",
-    "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
-    "CE1116/08_Templates/Atomic Template.md",
     "README.md",
     "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
     "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
@@ -190,19 +195,11 @@
     "CE1116/04_Implementación/Taskboard.md",
     "CE1116/04_Implementación/Estándares de Programación.md",
     "CE1116/04_Implementación/Definition of Done (DoD).md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/02_Requirimientos/User Story.md",
-    "CE1116/02_Requirimientos/Requerimientos No Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos Funcionales.md",
-    "CE1116/02_Requirimientos/Requerimientos de Sistema.md",
-    "CE1116/02_Requirimientos/Requerimientos de Negocio.md",
-    "CE1116/02_Requirimientos/Entrevistas.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
     "CE1116/07_Mantenimiento",
     "06_Maintenance",
-    "Untitled",
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
